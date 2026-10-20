@@ -1,0 +1,85 @@
+[
+  {
+    "code": "CS-101",
+    "title": "Introduction to Computing",
+    "creditHours": 3,
+    "instructor": "Dr. Farhan",
+    "department": "Computer Science",
+    "description": "Foundational computing course",
+    "tags": [
+      "core",
+      "intro"
+    ]
+  },
+  {
+    "code": "CS-201",
+    "title": "Data Structures",
+    "creditHours": 3,
+    "instructor": "Dr. Hamza",
+    "department": "Computer Science",
+    "description": "Fundamental data structures and algorithms",
+    "tags": [
+      "core",
+      "algorithms"
+    ]
+  },
+  {
+    "code": "CS-301L",
+    "title": "Full Stack Web Development",
+    "creditHours": 3,
+    "instructor": "Dr. Hamza Rauf",
+    "department": "Software Engineering",
+    "description": "Modern web development with NestJS and React",
+    "tags": [
+      "web",
+      "lab"
+    ]
+  },
+  {
+    "code": "CS-305",
+    "title": "Database Systems",
+    "creditHours": 3,
+    "instructor": "Dr. Sara Khan",
+    "department": "Data Science",
+    "description": "Relational databases and SQL",
+    "tags": [
+      "database",
+      "core"
+    ]
+  },
+  {
+    "code": "CS-410",
+    "title": "Artificial Intelligence",
+    "creditHours": 3,
+    "instructor": "Dr. Ali Raza",
+    "department": "Data Science",
+    "description": "Search algorithms and heuristics",
+    "tags": [
+      "ai",
+      "elective"
+    ]
+  },
+  {
+    "code": "CS-450",
+    "title": "Software Architecture",
+    "creditHours": 2,
+    "instructor": "Dr. Bilal Siddiqui",
+    "department": "Software Engineering",
+    "description": "Architectural styles and design patterns",
+    "tags": [
+      "architecture",
+      "se"
+    ]
+  },
+  {
+    "code": "CS-420",
+    "title": "Compilers",
+    "creditHours": 3,
+    "instructor": "Dr. Hamza Rauf",
+    "department": "Computer Science",
+    "tags": [
+      "theory",
+      "core"
+    ]
+  }
+]
